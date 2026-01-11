@@ -44,10 +44,10 @@ A organização do conteúdo pode mudar conforme a evolução dos estudos.
 - O ***APK*** foi gerado apenas para demonstrar a execução da aplicação.
 - ***A aprendizagem*** → é o que realmente importa, e é independente do APK.
 
-[![Download APK](https://img.shields.io/badge/Baixar-APK_Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/brunomoraesdigital/c/releases/latest/download/dinorunc.apk)
+[![Download APK](https://img.shields.io/badge/Baixar-APK_Android-3ddc84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/brunomoraesdigital/kotlin/#)
 
-![Downloads](https://img.shields.io/github/downloads/brunomoraesdigital/c/latest/total?label=Downloads)
-[![Releases](https://img.shields.io/badge/Releases-ver-blue?style=flat)](https://github.com/brunomoraesdigital/c/releases)
+![Downloads](https://img.shields.io/github/downloads/brunomoraesdigital/kotlin/#)
+[![Releases](https://img.shields.io/badge/Releases-ver-blue?style=flat)](https://github.com/brunomoraesdigital/kotlin/releases)
 
 > ⚠️ APK instalado fora da Play Store pode gerar aviso de segurança.  
 > O código-fonte está disponível no repositório e nas Releases.
