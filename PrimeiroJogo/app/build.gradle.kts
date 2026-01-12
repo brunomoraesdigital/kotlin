@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.primeirojogo"
+    namespace = "com.brunomoraes.primeirojogo"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.example.primeirojogo"
+        applicationId = "com.brunomoraes.primeirojogo"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

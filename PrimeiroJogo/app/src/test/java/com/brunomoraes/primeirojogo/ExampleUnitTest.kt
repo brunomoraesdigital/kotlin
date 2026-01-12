@@ -1,4 +1,4 @@
-package com.example.primeirojogo
+package com.brunomoraes.primeirojogo
 
 import org.junit.Test
 
