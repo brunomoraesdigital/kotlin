@@ -11,7 +11,7 @@
         android:id="@+id/btnClique"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:text="Clique Aqui"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -22,9 +22,21 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Pontos: 0"
+        android:textSize="24sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imgTrofeu"
+        android:layout_width="125dp"
+        android:layout_height="125dp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/btnClique"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/txtContador"
+        app:srcCompat="@drawable/bruniho" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
